@@ -1,0 +1,23 @@
+[Desktop Entry]
+Comment=Oxygen Crystal Diamond KDE4 Desktop Design ported for Plasma5
+Comment[x-test]=xxOxygen Crystal Diamond KDE4 Desktop Design ported for Plasma5xx
+
+Encoding=UTF-8
+
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Keywords[x-test]=xxDesktopxx;xxWorkspacexx;xxAppearancexx;xxLook and Feelxx;xxLogoutxx;xxLockxx;xxSuspendxx;xxShutdownxx;xxHibernatexx;
+
+Name=Oxygen Crystal Diamond
+Name[x-test]=xxOxygen Crystal Diamondxx
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Nikola Yanev
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=gericom.hummer@gmail.com
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=org.kde.ocd.desktop
+X-KDE-PluginInfo-Version=2.0
+X-KDE-PluginInfo-Website=http://www.kde.org
+X-Plasma-MainScript=defaults

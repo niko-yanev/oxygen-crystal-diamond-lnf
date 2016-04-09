@@ -1,0 +1,18 @@
+[SddmGreeterTheme]
+Name=ocd
+Name[x-test]=xxocdxx
+
+Description=KDE4 KDM theme ported to SDDM. \nThe original theme is based on Horos kdm theme
+Type=sddm-theme
+Author=Nikola Yanev
+Copyright=(c) 2016, Nikola Yanev
+Screenshot=screenshot.png
+License=GPL
+Version=20160409
+MainScript=ocd.qml
+ConfigFile=ocd.conf
+TranslationsDirectory=translations
+Theme-Id=ocd
+Theme-API=2.0
+Website=https://github.com/sddm/sddm
+

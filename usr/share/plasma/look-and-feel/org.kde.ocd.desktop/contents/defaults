@@ -1,0 +1,15 @@
+[kdeglobals][KDE]
+widgetStyle=oxygen
+
+[kdeglobals][General]
+ColorScheme=ocd
+
+[kdeglobals][Icons]
+Theme=ocd
+
+[plasmarc][Theme]
+name=ocd
+
+[kcminputrc][Mouse]
+cursorTheme=Oxygen_White
+
