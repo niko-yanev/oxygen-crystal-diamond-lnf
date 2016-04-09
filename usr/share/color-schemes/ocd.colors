@@ -89,8 +89,8 @@ ForegroundPositive=0,110,40
 ForegroundVisited=100,74,155
 
 [General]
-ColorScheme=ocd.colors
-Name=ocd.colors
+ColorScheme=ocd
+Name=ocd
 shadeSortColumn=true
 
 [KDE]
