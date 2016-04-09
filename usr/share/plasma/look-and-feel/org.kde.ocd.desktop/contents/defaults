@@ -13,3 +13,8 @@ name=ocd
 [kcminputrc][Mouse]
 cursorTheme=Oxygen_White
 
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.oxygen
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.oxygen
