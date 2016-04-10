@@ -2,15 +2,15 @@
 Color=56,56,56
 ColorAmount=0
 ColorEffect=0
-ContrastAmount=0.65000000000000002
+ContrastAmount=0.65
 ContrastEffect=1
-IntensityAmount=0.10000000000000001
+IntensityAmount=0.1
 IntensityEffect=2
 
 [ColorEffects:Inactive]
 ChangeSelectionColor=true
 Color=112,111,110
-ColorAmount=-0.90000000000000002
+ColorAmount=-0.9
 ColorEffect=1
 ContrastAmount=0.25
 ContrastEffect=2
@@ -88,13 +88,27 @@ ForegroundNormal=34,31,30
 ForegroundPositive=0,110,40
 ForegroundVisited=100,74,155
 
+[Colors:Complementary]
+BackgroundAlternate=196,224,255
+BackgroundNormal=24,21,19
+DecorationFocus=58,167,221
+DecorationHover=110,214,255
+ForegroundActive=255,128,224
+ForegroundInactive=137,136,135
+ForegroundLink=88,172,255
+ForegroundNegative=191,3,3
+ForegroundNeutral=176,128,0
+ForegroundNormal=231,253,255
+ForegroundPositive=0,110,40
+ForegroundVisited=150,111,232
+
 [General]
 ColorScheme=ocd
 Name=ocd
 shadeSortColumn=true
 
 [KDE]
-contrast=2
+contrast=7
 
 [WM]
 activeBackground=48,174,232
